@@ -1,0 +1,37 @@
+print("__________HUSAINI IYASTAMA H____________")
+print("__PROGRAM KALKULASI TOTAL HARGA BARANG__")
+
+# Membuat Login
+def login():
+    nama = input("Masukkan nama: ") 
+    nim = input("Masukkan NIM: ")  
+    print(f"Selamat datang, {nama} (NIM: {nim})!")  
+
+# Menginput dan menghitung total harga barang
+def hitung_total():
+    harga = float(input("Masukkan harga barang: Rp. "))  
+    jumlah = int(input("Masukkan jumlah pembelian: "))  
+    total = harga * jumlah  
+    # Cek apakah total > 250.000
+    # Output Perhitungan
+    if total > 250000:
+        diskon = total * 0.25  
+        total -= diskon  
+        print(f"diskon 25% diberikan! total yang harus dibayar: Rp. {total:.2f}")
+    else:
+        print(f"total pembayaran: Rp. {total:.2f}")
+
+# Memanggil fungsi login
+def main():
+    login()  
+    #Looping jika ingin menghitung lagi
+    while True:
+        hitung_total()  
+        ulang = input("ingin menghitung lagi? (ya/tidak): ").lower()  
+        if ulang != 'ya':  
+            print("terima kasih!")
+            break  
+
+# Jalankan program utama
+if __name__ == "__main__":
+    main()  
