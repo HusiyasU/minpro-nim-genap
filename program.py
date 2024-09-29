@@ -1,5 +1,6 @@
 print("__________HUSAINI IYASTAMA H____________")
 print("__PROGRAM KALKULASI TOTAL HARGA BARANG__")
+print("________________________________________")
 
 # Membuat Login
 def login():
