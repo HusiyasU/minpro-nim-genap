@@ -6,8 +6,9 @@ print("________________________________________")
 # Membuat Login
 def login():
     nama = input("\nMasukkan nama: ") 
+    prodi = input("Masukkan program studi: ")
     nim = input("Masukkan NIM: ")  
-    print(f"Selamat datang, {nama} (NIM: {nim})!")  
+    print(f"Selamat datang, {nama}, Program Studi: {prodi} (NIM: {nim})!")  
 
 # Menginput dan menghitung total harga barang
 def hitung_total():
