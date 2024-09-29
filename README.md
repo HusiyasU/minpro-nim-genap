@@ -14,10 +14,12 @@ Jika sudah maka akan muncul seperti ini ![image](https://github.com/user-attachm
 
 Setelah program login, Pengguna diarahkan untuk mengisi Harga barang dan jumlah
 ![image](https://github.com/user-attachments/assets/cf4a9e64-3f9a-4816-a018-60db8c4f504b)
+
 Jika harga lebih dari Rp. 250000 maka pengguna akan mendapat diskon sebesar 25%, jika tidak harga nya tetap sama
 
 di sini juga ada program untuk menentukan apakah ingin menghitung lagi
 ![image](https://github.com/user-attachments/assets/c420f02f-d788-4a1f-83c1-60e71fb37890)
+
 (ya/tidak)
 jika memilih ya program akan dimulai kembali, jika memilih tidak program selesai dan akan muncul ![image](https://github.com/user-attachments/assets/29bcadbf-5e42-4a51-98da-fae4ca23ba6e)
 
