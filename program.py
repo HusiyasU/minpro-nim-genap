@@ -39,5 +39,5 @@ def main():
 
 # Jalankan program utama
 if __name__ == "__main__":
-    main()
+    main() # Memanggil fungsi main untuk menjalankan keseluruhan program
  
