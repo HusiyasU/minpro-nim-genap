@@ -18,6 +18,7 @@ Setelah program login, Pengguna diarahkan untuk mengisi Harga barang dan jumlah
 Jika harga lebih dari Rp. 250000 maka pengguna akan mendapat diskon sebesar 25%, jika tidak harga nya tetap sama
 
 di sini juga ada program untuk menentukan apakah ingin menghitung lagi
+
 ![image](https://github.com/user-attachments/assets/c420f02f-d788-4a1f-83c1-60e71fb37890)
 
 (ya/tidak)
