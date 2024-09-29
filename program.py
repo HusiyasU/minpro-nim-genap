@@ -1,16 +1,17 @@
+print("________________________________________")
 print("__________HUSAINI IYASTAMA H____________")
 print("__PROGRAM KALKULASI TOTAL HARGA BARANG__")
 print("________________________________________")
 
 # Membuat Login
 def login():
-    nama = input("Masukkan nama: ") 
+    nama = input("\nMasukkan nama: ") 
     nim = input("Masukkan NIM: ")  
     print(f"Selamat datang, {nama} (NIM: {nim})!")  
 
 # Menginput dan menghitung total harga barang
 def hitung_total():
-    harga = float(input("Masukkan harga barang (Rp.): "))  
+    harga = float(input("\nMasukkan harga barang (Rp.): "))  
     jumlah = int(input("Masukkan jumlah pembelian: "))  
     total = harga * jumlah  
     
