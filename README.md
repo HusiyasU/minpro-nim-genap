@@ -7,6 +7,7 @@ Husaini Iyastama H // 2409116038 // Sistem Informasi A
 # **Output Awal Sampai Akhir**
 ![image](https://github.com/user-attachments/assets/df8e262e-ca79-4bfa-9181-e5b0799ba349)
 
+# **Penjelasan Output**
 
 
 
