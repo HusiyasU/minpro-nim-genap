@@ -10,6 +10,7 @@ Husaini Iyastama H // 2409116038 // Sistem Informasi A
 # **Penjelasan Output**
 Pengguna melakukan login sederhana dengan memasukkan Nama, Program studi, dan Nim
 ![image](https://github.com/user-attachments/assets/ac7833f2-3011-4e3f-99c6-507d0798b654)
+
 Jika sudah maka akan muncul seperti ini ![image](https://github.com/user-attachments/assets/884c4025-9504-4fe8-9701-13a2ff747f37)
 
 Setelah program login, Pengguna diarahkan untuk mengisi Harga barang dan jumlah
